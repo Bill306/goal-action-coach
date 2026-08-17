@@ -1,0 +1,4 @@
+interface:
+  display_name: "目标具象化教练"
+  short_description: "目标具象化与执行教练：模糊目标→带数字死线的可执行行动地图"
+  default_prompt: "用 $goal-action-coach 帮我把「我想做 X」这个模糊想法，变成一个带数字、带截止时间的具体目标和可执行的行动路线。"
